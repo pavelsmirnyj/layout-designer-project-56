@@ -1,22 +1,19 @@
 {
-  "name": "html5-css-boilerplate",
-  "version": "0.1.0",
-  "description": "HTML5/CSS Boilerplate with HTMLHint and StyleLint",
+  "name": "layout-designer-project-56",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hexlet-boilerplates/html-boilerplate.git"
+    "url": "git+https://github.com/pavelsmirnyj/layout-designer-project-56.git"
   },
-  "main": "",
-  "devDependencies": {
-    "htmlhint": "^1.1.0",
-    "stylelint": "^14.2.0",
-    "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-config-standard-scss": "^3.0.0",
-    "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.1.0",
-    "surge": "^0.23.1"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelsmirnyj/layout-designer-project-56/issues"
   },
-  "author": "Nikita Mikhaylov",
-  "license": "ISC"
+  "homepage": "https://github.com/pavelsmirnyj/layout-designer-project-56#readme"
 }

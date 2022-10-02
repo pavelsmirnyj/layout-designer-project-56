@@ -1,0 +1,24 @@
+@import "variables.scss";
+
+
+@font-face {
+    font-weight: 400;
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Regular.woff");
+
+@font-face {
+    font-weight: 700;
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Bold.woff");
+}
+
+html {
+    font-family: "Roboto", Arial;
+    font-size: 18px;
+    color: #cacaca;
+    background: #08020d;
+}
+
+@mixin h1($font-size) {
+            font-size: $font-size;
+};
